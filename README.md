@@ -1,2 +1,2 @@
-# softtech-yapay-zeka-bootcamp
-Derste öğrendiğim kodlar ve dökümanlar
+# softtech-artificial-intelligence-bootcamp
+Codes that I have learned during bootcamp
